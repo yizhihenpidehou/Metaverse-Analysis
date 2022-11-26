@@ -1,0 +1,387 @@
+second life:9
+virtual reality:4
+augmented reality:3
+abstract available:3
+physical world:3
+next-generation internet:3
+virtual world:3
+recent years:3
+rapidly changing:2
+virtual worlds:2
+metaverse world:2
+increasingly popular:2
+virtual environments:2
+massively multiplayer online:2
+multiplayer online games:2
+massively multiplayer:2
+multiplayer online:2
+online games:2
+real world:2
+three dimensional virtual:2
+digital world:2
+anatomical 3d objects:1
+regarding eye mechanism:1
+objects regarding eye:1
+metaverse second life:1
+exciting opportunities:1
+metaverse second:1
+advanced digital networking:1
+higher educational institutes:1
+three-dimensional virtual environments:1
+social online communities:1
+exploring online three-dimensional:1
+physical world around:1
+recent advances:1
+world around:1
+provides concise summaries:1
+column provides concise:1
+provides concise:1
+concise summaries:1
+column provides:1
+collective transfer:1
+human-computer interaction:1
+digital multisensory communication:1
+currently intense interest:1
+covid-19 pandemic:1
+offer virtual services:1
+severe restrictions:1
+mobility due:1
+metaverse promises large-scale:1
+share experiences:1
+supports blending digital:1
+blending digital content:1
+social media posts:1
+social media:1
+social media content:1
+media posts:1
+social media engagement:1
+independent virtual worlds:1
+metaverse rests:1
+integrated network:1
+four areas:1
+roblox bring immersive:1
+bring immersive social:1
+immersive social experiences:1
+roblox bring:1
+science-fiction notions:1
+virtual problem-based learning:1
+problem-based learning:1
+eye blinking:1
+transitioned towards health-care:1
+allows ambient tracking:1
+transitioned towards:1
+towards health-care:1
+four key technologies:1
+four key:1
+situation awareness:1
+virtual service provider:1
+learn japanese language:1
+japanese language:1
+learn japanese:1
+infer viewed exhibits:1
+infer viewed:1
+viewed exhibits:1
+metaverse museum:1
+movement log:1
+intermedia art:1
+interactive machinery:1
+artificial intelligence:1
+public spaces:1
+open grid protocol:1
+grid protocol could:1
+protocol could lead:1
+open grid:1
+grid protocol:1
+rio conference:1
+relatively recent awareness:1
+natural world environment:1
+relatively recent:1
+recent awareness:1
+metaverse encompasses technologies:1
+metaverse encompasses:1
+extended metaverse framework:1
+encompasses technologies:1
+news headlines recently:1
+news headlines:1
+headlines recently:1
+immersive three-dimensional virtual:1
+three-dimensional virtual worlds:1
+virtual project teams:1
+immersive three-dimensional:1
+increasingly popular form:1
+popular form:1
+mixed reality telepresence:1
+reality telepresence:1
+like virtual reality:1
+paradigm made possible:1
+emerging technologies like:1
+technologies like virtual:1
+several big tech:1
+big tech companies:1
+several big:1
+big tech:1
+tech companies:1
+internet broadband access:1
+popularizing instant messaging:1
+internet engineering task:1
+engineering task force:1
+instant messaging services:1
+steadily grown:1
+cross-world search engine:1
+cross-world search:1
+search engine:1
+enabling technology:1
+wider web:1
+serious role-playing games:1
+role-playing games:1
+serious role-playing:1
+open metaverses:1
+attracted enormous attention:1
+attracted enormous:1
+enormous attention:1
+dynamic 3d contents:1
+server bandwidth:1
+disseminate massive:1
+server bandwidth consumption:1
+social virtual environments:1
+head-mounted displays:1
+social virtual:1
+real environment:1
+growing body:1
+social vr literature:1
+literature provides limited:1
+provides limited insight:1
+maintaining interpersonal relationships:1
+social vr access:1
+experimental demonstration:1
+immersive digital spaces:1
+technology acceptance model:1
+metaverse system:1
+imagined world:1
+immersive digital:1
+greatest potential today:1
+greatest potential:1
+potential today:1
+exhibition content:1
+utilizes head-mounted displays:1
+key emerging technologies:1
+drawn keen attention:1
+immersive virtual reality:1
+immersive vr affordances:1
+digital twins:1
+metaverse existed:1
+stem education:1
+nuclear safety education:1
+learning system:1
+analyzing devices:1
+mutual collaboration without:1
+introductory editorial:1
+attracted great attention:1
+latest buzzword:1
+attracted great:1
+great attention:1
+computational social systems:1
+computational social:1
+social systems:1
+ieee transactions:1
+ieee tcss:1
+growing rapidly:1
+editorial analyzes national:1
+environmental issues associated:1
+editorial analyzes:1
+analyzes national:1
+global geopolitical:1
+computational human perception:1
+article describes:1
+computational human:1
+human perception:1
+human-intelligent metaverse:1
+metaversi currently:1
+friends list:1
+in-game experience:1
+mec-based urllc digital:1
+urllc digital twin:1
+mobile edge computing:1
+low latency communications:1
+digital twin scheme:1
+neuro-symbolic speech executor:1
+speech communication systems:1
+emerging world:1
+neuro-symbolic speech:1
+current metaverse:1
+unlike previous studies:1
+offline selves:1
+digital universe accessible:1
+united arab emirates:1
+universe accessible:1
+virtual environment:1
+digital universe:1
+dominated classic scientific:1
+dominated classic:1
+classic scientific:1
+economic developments:1
+true dao system:1
+true dao:1
+dao system:1
+intelligent systems:1
+article outlines:1
+vrm 3d model:1
+combines vrm:1
+face capture:1
+motion capture:1
+metaverse podcast:1
+attracted extensive attention:1
+technological change:1
+attracted extensive:1
+extensive attention:1
+recently attracted paramount:1
+attracted paramount attention:1
+paramount attention due:1
+future internet:1
+ai-fml metaverse:1
+ai-fml metaverse platform:1
+heart sutra:1
+realistic virtual environments:1
+next-generation internet paradigm:1
+via head-mounted displays:1
+internet paradigm:1
+virtual environment parallel:1
+environment parallel:1
+bright opportunities:1
+metaverse promises:1
+innovative platform:1
+healthcare industry:1
+every industry:1
+recent facebook rebranding:1
+drawn renewed attention:1
+recent facebook:1
+facebook rebranding:1
+drawn renewed:1
+metaverse provides:1
+human interaction:1
+brain signals:1
+second life metaverse:1
+evaluates metaverses:1
+designer el lissitzky:1
+lissitzky never fully:1
+never fully revealed:1
+lissitzky developed:1
+lissitzky never:1
+mechanisms inside three:1
+inside three dimensional:1
+dimensional virtual worlds:1
+three dimensional environments:1
+arabic sign language:1
+sign language:1
+arabic sign:1
+interactive auto computer:1
+auto computer systems:1
+still uncertain future:1
+meta verse:1
+possible future developments:1
+uncertain future:1
+future developments:1
+increasingly popular modality:1
+popular modality:1
+fully immersive digital:1
+immersive digital worlds:1
+somehow goes beyond:1
+metaverse seems hard:1
+virtual metaphysical landscape:1
+seems hard:1
+digital native generation:1
+digital native:1
+native generation:1
+normal life:1
+reality technology plays:1
+wider range:1
+technology plays:1
+important role:1
+much emphasis:1
+participate concurrently:1
+conduct business:1
+real space:1
+real world theme:1
+world theme parks:1
+theme park:1
+internet technology:1
+called metaverses:1
+metaverse application:1
+personal virtual space:1
+markedly changed:1
+color suggestion:1
+metaverse platforms:1
+surveying experienced:1
+light environment art:1
+environment art:1
+generation gaming internet:1
+next generation gaming:1
+gaming internet:1
+virtual humans:1
+next generation:1
+digital economy:1
+virtual digital world:1
+metaverse-enabled learning spaces:1
+offer significant improvements:1
+metaverse-enabled spaces:1
+significant improvements:1
+teaching allowing:1
+facebook takes:1
+company image:1
+development blows:1
+swirling wind:1
+business infrastructure:1
+dimensional virtual space:1
+virtual space constructed:1
+three dimensional:1
+constructing human-like npcs:1
+imitation learning:1
+human-like npcs:1
+inverse soft actor-critic:1
+soft actor-critic:1
+educational tool:1
+e-learning continues:1
+utilizing second life:1
+multilingual discussions would:1
+utilizing second:1
+language grid system:1
+enabling high fidelity:1
+high fidelity experiences:1
+last thirty years:1
+built-in virtual currency:1
+particular 3d virtual:1
+multimodal direction-giving dialogues:1
+multimodal direction-giving:1
+direction-giving dialogues:1
+prototype system:1
+spatial gesture generation:1
+reaching maturity levels:1
+soon enable widespread:1
+enable widespread deployment:1
+reaching maturity:1
+maturity levels:1
+increasing day:1
+metaverse architecture:1
+national technical colleges:1
+second life owned:1
+learning nuclear energy:1
+nagaoka university:1
+visual construction:1
+multi-functional smart materials:1
+multi-functional smart:1
+bring pi principles:1
+smart materials:1
+current era background:1
+social environment brought:1
+era background:1
+rapid development:1
+virtual-world environment becomes:1
+insert 3d content:1
+truly engaging platform:1
+arbitrary 3d content:1
+virtual-world environment:1
+ways metaverses influence:1
+sheds light:1
+ways metaverses:1
+metaverses influence:1
+metaverse retailing:1

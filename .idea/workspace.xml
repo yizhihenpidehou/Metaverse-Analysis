@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d68e92e-653a-43a6-8a9d-b25ea69a9140" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FnLMVARpS86VihtSVPY7rbNJF1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/convert" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.corr_analysis">
+    <configuration name="analysisPipeline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Metaverse-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysisPipeline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="author_nx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Metaverse-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/author_cooperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/author_cooperation/author_nx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="corr_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Metaverse-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/corr_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drawMetricDynamic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Metaverse-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/drawDynamic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drawDynamic/drawMetricDynamic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findvenue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Metaverse-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venueAnalysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venueAnalysis/findvenue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.corr_analysis" />
+        <item itemvalue="Python.author_nx" />
+        <item itemvalue="Python.drawMetricDynamic" />
+        <item itemvalue="Python.findvenue" />
+        <item itemvalue="Python.analysisPipeline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d68e92e-653a-43a6-8a9d-b25ea69a9140" name="Changes" comment="" />
+      <created>1665122853868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665122853868</updated>
+      <workItem from="1665122858458" duration="1095000" />
+      <workItem from="1665197786603" duration="11498000" />
+      <workItem from="1665291129695" duration="5741000" />
+      <workItem from="1665405425828" duration="3020000" />
+      <workItem from="1665448839013" duration="4421000" />
+      <workItem from="1665535924518" duration="617000" />
+      <workItem from="1665826378217" duration="1194000" />
+      <workItem from="1665887261735" duration="1782000" />
+      <workItem from="1665926728433" duration="2908000" />
+      <workItem from="1665978315679" duration="14457000" />
+      <workItem from="1666052727685" duration="13895000" />
+      <workItem from="1666138834023" duration="6473000" />
+      <workItem from="1666187210504" duration="833000" />
+      <workItem from="1666228959137" duration="52000" />
+      <workItem from="1666420250459" duration="1222000" />
+      <workItem from="1666504857239" duration="2089000" />
+      <workItem from="1666576493752" duration="5902000" />
+      <workItem from="1666746113880" duration="871000" />
+      <workItem from="1666747071425" duration="1936000" />
+      <workItem from="1666874993594" duration="4759000" />
+      <workItem from="1667030152865" duration="2286000" />
+      <workItem from="1667194305022" duration="9159000" />
+      <workItem from="1667215435660" duration="1155000" />
+      <workItem from="1667547631116" duration="6089000" />
+      <workItem from="1667559327319" duration="9969000" />
+      <workItem from="1667570154402" duration="124000" />
+      <workItem from="1667612617620" duration="11501000" />
+      <workItem from="1667784078861" duration="31350000" />
+      <workItem from="1667865385745" duration="18655000" />
+      <workItem from="1667958810979" duration="17434000" />
+      <workItem from="1668044530032" duration="13495000" />
+      <workItem from="1668130917505" duration="30150000" />
+      <workItem from="1668181573022" duration="47000" />
+      <workItem from="1668213021339" duration="505000" />
+      <workItem from="1668217632596" duration="8704000" />
+      <workItem from="1668602138710" duration="10226000" />
+      <workItem from="1668645968696" duration="29336000" />
+      <workItem from="1668771037087" duration="6989000" />
+      <workItem from="1668825817261" duration="7718000" />
+      <workItem from="1668919823759" duration="423000" />
+      <workItem from="1669093314295" duration="22068000" />
+      <workItem from="1669165963313" duration="12432000" />
+      <workItem from="1669252746902" duration="7993000" />
+      <workItem from="1669348043661" duration="12691000" />
+      <workItem from="1669441664874" duration="2178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/xml2txt/xml2txt_all.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1667826462030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/convert" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$local_assortativity.coverage" NAME="local_assortativity Coverage Results" MODIFIED="1668659515336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gender" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$country_nx_T1.coverage" NAME="country_nx_T1 Coverage Results" MODIFIED="1667618205549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/国家网络" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$findcountrynew.coverage" NAME="findcountrynew Coverage Results" MODIFIED="1667618262215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/国家网络" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$yearDivide.coverage" NAME="yearDivide Coverage Results" MODIFIED="1667621219367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/research topic" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$filterNoAbstract.coverage" NAME="filterNoAbstract Coverage Results" MODIFIED="1667560174739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$ieee_crawler.coverage" NAME="ieee_crawler Coverage Results" MODIFIED="1667563274313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$merge_springer.coverage" NAME="merge_springer Coverage Results" MODIFIED="1667563512291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取数据格式统一汇总" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$yearcaculate.coverage" NAME="yearcaculate Coverage Results" MODIFIED="1667619039837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/四大平台图片" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$seperate.coverage" NAME="seperate Coverage Results" MODIFIED="1667618930699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/四大平台图片" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$authorSelect.coverage" NAME="authorSelect Coverage Results" MODIFIED="1668222351243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/drawDynamic" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$gender_analysis.coverage" NAME="gender_analysis Coverage Results" MODIFIED="1668603045711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gender" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$arxiv_crawler.coverage" NAME="arxiv_crawler Coverage Results" MODIFIED="1667564238605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$cal_citation.coverage" NAME="cal_citation Coverage Results" MODIFIED="1669166128876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/citation" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$getCountry.coverage" NAME="getCountry Coverage Results" MODIFIED="1667565938502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/国家网络/获取国家" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$findvenue.coverage" NAME="findvenue Coverage Results" MODIFIED="1669348832497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venueAnalysis" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$remove_repeat.coverage" NAME="remove_repeat Coverage Results" MODIFIED="1669102497592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$author_nx.coverage" NAME="author_nx Coverage Results" MODIFIED="1669383825941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/author_cooperation" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$remove_duplicate_title.coverage" NAME="remove_duplicate_title Coverage Results" MODIFIED="1667550628409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/初筛" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$corr_analysis.coverage" NAME="corr_analysis Coverage Results" MODIFIED="1669387003768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$classify.coverage" NAME="classify Coverage Results" MODIFIED="1667619383620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/各大出版商排序" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$gender_amsor.coverage" NAME="gender_amsor Coverage Results" MODIFIED="1668672705422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gender" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$gender_diversity.coverage" NAME="gender_diversity Coverage Results" MODIFIED="1668676931794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gender" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$geo_test.coverage" NAME="geo_test Coverage Results" MODIFIED="1667564789489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/国家网络/获取国家" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$findcountrygoogle.coverage" NAME="findcountrygoogle Coverage Results" MODIFIED="1667564897799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/国家网络/获取国家" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$analysisPipeline.coverage" NAME="analysisPipeline Coverage Results" MODIFIED="1669257884957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$yake.coverage" NAME="yake Coverage Results" MODIFIED="1665123334874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/research topic" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$drawMetricDynamic.coverage" NAME="drawMetricDynamic Coverage Results" MODIFIED="1669367145213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/drawDynamic" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$springer_crawler.coverage" NAME="springer_crawler Coverage Results" MODIFIED="1667558316521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$google_crawler.coverage" NAME="google_crawler Coverage Results" MODIFIED="1666054952242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$get_author.coverage" NAME="get_author Coverage Results" MODIFIED="1667793101593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/firstFilter" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$acm_crawler.coverage" NAME="acm_crawler Coverage Results" MODIFIED="1667558180371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$classify__1_.coverage" NAME="classify (1) Coverage Results" MODIFIED="1667792906018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/publisher_divide" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$xml2txt_inproceedings.coverage" NAME="xml2txt_inproceedings Coverage Results" MODIFIED="1667548372465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml2txt" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$first_keywords_filter.coverage" NAME="first_keywords_filter Coverage Results" MODIFIED="1667792976991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/firstFilter" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$xml2txt_all.coverage" NAME="xml2txt_all Coverage Results" MODIFIED="1667990339628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml2txt" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$merge_ieee.coverage" NAME="merge_ieee Coverage Results" MODIFIED="1667563483383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取数据格式统一汇总" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$get_ciatation.coverage" NAME="get_ciatation Coverage Results" MODIFIED="1669099868271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/citation" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$xml2txt_article.coverage" NAME="xml2txt_article Coverage Results" MODIFIED="1667548310328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml2txt" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$merge_acm.coverage" NAME="merge_acm Coverage Results" MODIFIED="1667563436261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取数据格式统一汇总" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$citation_crawler.coverage" NAME="citation_crawler Coverage Results" MODIFIED="1667886851792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlers" />
+    <SUITE FILE_PATH="coverage/Metaverse_Analysis$calAmount.coverage" NAME="calAmount Coverage Results" MODIFIED="1667566826935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取数据格式统一汇总" />
+  </component>
+</project>
